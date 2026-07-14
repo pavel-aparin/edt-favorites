@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/EDT_Favorites.feature_1.0.10.jar" id="EDT_Favorites.feature" version="1.0.10">
+      <category name="EDT_Favorites"/>
+   </feature>
+   <category-def name="EDT_Favorites" label="EDT Favorites">
+      <description>Favorites and changed-objects filters for 1C:EDT.</description>
+   </category-def>
+</site>
