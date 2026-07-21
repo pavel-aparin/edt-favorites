@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/EDT_Favorites.feature_1.0.13.jar" id="EDT_Favorites.feature" version="1.0.13">
+   <feature url="features/EDT_Favorites.feature_1.1.0.jar" id="EDT_Favorites.feature" version="1.1.0">
       <category name="EDT_Favorites"/>
    </feature>
    <category-def name="EDT_Favorites" label="EDT Favorites">
