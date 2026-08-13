@@ -5,8 +5,7 @@
 <img width="773" height="545" alt="image" src="https://github.com/user-attachments/assets/37b872f4-717e-44fe-a351-4fe9c46aeb53" />
 
 Рядом с кнопками фильтром располагается подменю, содержащее список измененных/избранных объектов, к которым можно быстро перейти без необходимости включения фильтра.
-<img width="655" height="418" alt="image" src="https://github.com/user-attachments/assets/f1d49079-9bf8-4a30-9b86-03d4694c9d1f" />
-
+<img width="686" height="495" alt="image" src="https://github.com/user-attachments/assets/9155eee8-28f5-405d-8491-69758d58080e" />
 
 ## Дополнительные возможности
 
